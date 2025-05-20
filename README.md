@@ -38,3 +38,6 @@ tailwind.config.js ekleme yap:
 olmasını istemediğimiz değişkenleri ortam değişkenleri olarak tanımlarız.
 
 -Örn:API_KEY admin giriş bilgileri,yayılmasını istemediğimiz herhangi bir değişken.# Youtube-Clone
+
+Screen Gif
+![Image](https://github.com/user-attachments/assets/3bff670a-6dda-4ea1-acb7-a30d2ac0d35d)
